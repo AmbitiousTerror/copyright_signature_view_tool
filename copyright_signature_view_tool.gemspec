@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["AmbitiousTerror"]
   spec.email         = ["waynegreenwood@hotmail.co.uk"]
 
-  spec.summary       = %q{A small gem that created a signature with uptodate date, name & company name}
+  spec.summary       = %q{A small gem that created a signature for the footer with current date, copywrighters name & company name}
   spec.description   = %q{Provides generated HTML data as a footer for copyright purposes.}
   spec.homepage      = "https://exxxample.com"
   spec.license       = "MIT"
